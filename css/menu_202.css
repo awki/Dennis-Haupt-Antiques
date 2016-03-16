@@ -1,0 +1,68 @@
+.mn00 {
+position: absolute;
+left: 0px;
+top: 0px;
+width: 150px;
+height: 900px; 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+text-align: left;
+background-color: #607050;
+overflow: hidden; }
+.cat1 {
+position: absolute;
+width: 135px;
+height: 16px;
+padding: 0px;
+padding-left: 10px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+font-weight: bold;
+color: #ffff80;
+overflow: hidden; }
+.itm1 {
+position: absolute;
+width: 125px;
+height: 16px;
+padding-left: 20px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+font-weight: bold;
+color: #ffffff;
+cursor: pointer;
+overflow: hidden; }
+.itm1:hover {
+background-color: #809070;
+color: #ffffff; }
+.itm1 a {
+outline: none;
+text-decoration: none;
+color: #ffffff; }
+.mrk1 {
+position: absolute;
+width: 6px;
+height: 6px;
+left: 8px;
+background-color: #e0e0e0; }
+.bkwd2 {
+position: absolute;
+left: 34px;
+top: 35px;
+width: 28px;
+height: 36px;
+cursor: pointer; }
+.fwrd2 {
+position: absolute;
+left: 76px;
+top: 35px;
+width: 28px;
+height: 36px;
+cursor: pointer; }
+.arow2 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 28px;
+height: 36px; }

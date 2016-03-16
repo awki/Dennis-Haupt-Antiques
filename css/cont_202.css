@@ -1,0 +1,34 @@
+.ct0 {
+position: absolute;
+width: 350px;
+height: 400px;
+top: 110px;
+left: 150px;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+text-align: left;
+color: #000000; }
+.ct1 {
+position: relative;
+width: 350px;
+font-size: 20px; }
+.ct2 {
+position: relative;
+width: 350px;
+font-size: 16px;
+padding-bottom: 7px; }
+.ct3 {
+position: relative;
+width: 350px;
+font-size: 16px;
+padding-bottom: 10px; }
+.ct4 {
+position: relative;
+width: 350px;
+font-size: 16px;
+padding-bottom: 10px; }
+.div6 {
+position: absolute;
+top: 275px;
+left: 175px;
+height:55px;
+width: 200px; }

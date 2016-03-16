@@ -1,0 +1,60 @@
+.bt00 {
+position: absolute;
+width: 600px;
+top: 111px;
+left: 25px;
+text-align: center;
+color: #000000; }
+.pd10 {
+position: relative;
+left: 0px;
+width: 600px;
+height: 10px; }
+.pd20 {
+position: relative;
+left: 0px;
+width: 600px;
+height: 20px; }
+.pd30 {
+position: relative;
+left: 0px;
+width: 600px;
+height: 30px; }
+.pd40 {
+position: relative;
+left: 0px;
+width: 600px;
+height: 40px; }
+.bt1 {
+position: relative;
+left: 100px;
+width: 400px;
+font-size: 36px; }
+.bt3 {
+position: relative;
+left: 100px;
+width: 400px;
+font-size: 24px; }
+.bt4 {
+position: relative;
+left: 100px;
+width: 400px;
+font-size: 14px; }
+.img7 {
+position: relative;
+top: 0px;
+left: 0px;
+width: 600px;
+height: 428px; }
+.dv30 {
+position: relative;
+left: 50px;
+width: 500px;
+font-size: 16px;
+text-align: left; }
+.div6 {
+position: relative;
+top: 0px;
+left: 250px;
+height:55px;
+width: 200px; }
